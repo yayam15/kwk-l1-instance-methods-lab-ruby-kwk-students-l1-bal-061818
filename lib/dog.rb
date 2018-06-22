@@ -1,1 +1,1 @@
-# dog.rb
+class Dog
